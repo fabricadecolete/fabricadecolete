@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.802f0dad.chunk.css",
+    "main.js": "/static/js/main.02d2afa8.chunk.js",
+    "main.js.map": "/static/js/main.02d2afa8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cad331f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cad331f0.js.map",
+    "static/js/2.5868efff.chunk.js": "/static/js/2.5868efff.chunk.js",
+    "static/js/2.5868efff.chunk.js.map": "/static/js/2.5868efff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9c15523068ace4df1a70cac293815548.js": "/precache-manifest.9c15523068ace4df1a70cac293815548.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.802f0dad.chunk.css.map": "/static/css/main.802f0dad.chunk.css.map",
+    "static/js/2.5868efff.chunk.js.LICENSE.txt": "/static/js/2.5868efff.chunk.js.LICENSE.txt",
+    "static/media/dragonStarSkew.png": "/static/media/dragonStarSkew.588a28f4.png",
+    "static/media/heroNoCourier.svg": "/static/media/heroNoCourier.657706c7.svg",
+    "static/media/logo-white.svg": "/static/media/logo-white.e8ba017f.svg",
+    "static/media/md-check-circle.svg": "/static/media/md-check-circle.bf7232e1.svg",
+    "static/media/nemoSkew.png": "/static/media/nemoSkew.a63a5654.png",
+    "static/media/urgentCargusSkew.png": "/static/media/urgentCargusSkew.c2533888.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cad331f0.js",
+    "static/js/2.5868efff.chunk.js",
+    "static/css/main.802f0dad.chunk.css",
+    "static/js/main.02d2afa8.chunk.js"
+  ]
+}
